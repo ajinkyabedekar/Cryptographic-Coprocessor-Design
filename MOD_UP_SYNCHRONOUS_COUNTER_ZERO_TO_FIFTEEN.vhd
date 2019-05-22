@@ -38,8 +38,8 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 entity syn_count4 is
 	port ( clk: in std_logic;
-		reset: in std_logic;
-		counter : out std_logic_vector(3 downto 0)
+	     reset: in std_logic;
+	  counter : out std_logic_vector(3 downto 0)
 	);
 end syn_count4;
 architecture Behavioral of syn_count4 is
