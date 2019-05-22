@@ -1,0 +1,16 @@
+LIBRARY IEEE ;
+USE IEEE . STD_LOGIC_1164 . ALL ;
+ENTITY ALL_GATES IS
+	PORT ( 	    A , B : IN STD_LOGIC ;
+F , G , H , I , J , K , L : OUT STD_LOGIC ) ;
+END ALL_GATES ;
+ARCHITECTURE FUNC OF ALL_GATES IS
+BEGIN
+	F <= A AND B ;
+	G <= A OR B ;
+	H <= NOT A ;
+	I <= A NAND B ;
+	J <= A NOR B ;
+	K <= A XOR B ;
+	L <= A XNOR B ;
+END FUNC ;
