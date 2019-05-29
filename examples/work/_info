@@ -1,0 +1,595 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples
+Eall_gates
+Z1 w1516348859
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Modeltech_pe_edu_10.4a/examples/ALL_GATES.vhd
+Z5 FC:/Modeltech_pe_edu_10.4a/examples/ALL_GATES.vhd
+l0
+L3
+ViR5eQFE[NEDL@JDS:=lA`2
+!s100 2WmiZ]aOQm?cS;DJ2Dm@:0
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1517164099
+!i10b 1
+Z8 !s108 1517164099.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/ALL_GATES.vhd|
+Z10 !s107 C:/Modeltech_pe_edu_10.4a/examples/ALL_GATES.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Afunc
+R2
+R3
+DEx4 work 9 all_gates 0 22 iR5eQFE[NEDL@JDS:=lA`2
+l8
+L7
+VHD^DbXbD4N0S01RMld7ia1
+!s100 DAU2z<L;h]ZjZ<YLk@9XQ0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate
+Z13 w1518079131
+R2
+R3
+R0
+Z14 8C:/Modeltech_pe_edu_10.4a/examples/TWO_TO_ONE_MULTIPLEXER.vhd
+Z15 FC:/Modeltech_pe_edu_10.4a/examples/TWO_TO_ONE_MULTIPLEXER.vhd
+l0
+L3
+VaA[1an1SZ_bKmDVRk>YT42
+!s100 N5IdcA4LUQkWD3aE9iHGV0
+R6
+32
+Z16 !s110 1518079138
+!i10b 1
+Z17 !s108 1518079138.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/TWO_TO_ONE_MULTIPLEXER.vhd|
+Z19 !s107 C:/Modeltech_pe_edu_10.4a/examples/TWO_TO_ONE_MULTIPLEXER.vhd|
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+Z20 DEx4 work 8 and_gate 0 22 aA[1an1SZ_bKmDVRk>YT42
+l8
+L7
+Z21 VQeTdZdWYClH^2<kz;2bd]2
+Z22 !s100 aaXJPDk5`O=_d4o]A84C61
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Efour_bit_adder_subtractor
+Z23 w1517164052
+R2
+R3
+R0
+Z24 8C:/Modeltech_pe_edu_10.4a/examples/FOUR_BIT_ADDER_SUBTRACTOR.vhd
+Z25 FC:/Modeltech_pe_edu_10.4a/examples/FOUR_BIT_ADDER_SUBTRACTOR.vhd
+l0
+L24
+V8<_>zkeY3=b_>Uo7O8_Fz2
+!s100 =IHSocHb4<TN^1>C;z>Ed3
+R6
+32
+Z26 !s110 1517164100
+!i10b 1
+Z27 !s108 1517164100.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/FOUR_BIT_ADDER_SUBTRACTOR.vhd|
+Z29 !s107 C:/Modeltech_pe_edu_10.4a/examples/FOUR_BIT_ADDER_SUBTRACTOR.vhd|
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 25 four_bit_adder_subtractor 0 22 8<_>zkeY3=b_>Uo7O8_Fz2
+l42
+L31
+VENUES=_VFTiEhNPBOAF8P1
+!s100 YLW@U?GiIBZmjfj7Kl`Ne3
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Efull_adder
+R23
+R2
+R3
+R0
+R24
+R25
+l0
+L13
+VCMF??i2J0X?m^hbX]Mb[O2
+!s100 6a`lc@AJ<5U2mh1>8;g6>1
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 10 full_adder 0 22 CMF??i2J0X?m^hbX]Mb[O2
+l18
+L17
+V2@PGkV_`5R2IO>@16a0Vh1
+!s100 :cdPTN>>bV@P2T30IBfni3
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Ehalf_adder
+Z30 w1517162191
+R2
+R3
+R0
+Z31 8C:/Modeltech_pe_edu_10.4a/examples/FULL_ADDER.vhd
+Z32 FC:/Modeltech_pe_edu_10.4a/examples/FULL_ADDER.vhd
+l0
+L23
+Vn]7QN`O6c@GgaOS_f3fKH2
+!s100 L1VV^a`?5OLGe8TQAD_`G3
+R6
+32
+R26
+!i10b 1
+R27
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/FULL_ADDER.vhd|
+Z34 !s107 C:/Modeltech_pe_edu_10.4a/examples/FULL_ADDER.vhd|
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 10 half_adder 0 22 n]7QN`O6c@GgaOS_f3fKH2
+l36
+L27
+V=BehINF2zb4NEeXKYIJj:3
+!s100 bkEGJba1_DT6H=BV`7;_X0
+R6
+32
+R26
+!i10b 1
+R27
+R33
+R34
+!i113 1
+R11
+R12
+Emux_4to1
+R13
+R2
+R3
+R0
+R14
+R15
+l0
+L99
+VFCco7XXL5nUKjbfiPn_mY0
+!s100 HOnL`GM=_dlk<Z`?LL]Hb1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Abhv
+R2
+R3
+DEx4 work 8 mux_4to1 0 22 FCco7XXL5nUKjbfiPn_mY0
+l105
+L104
+V1oo@4T<fTB9I^RkbBMRFC1
+!s100 RmRI<Lgm9:YY[dHfFVAfF1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Emux_4to1_top
+R13
+R2
+R3
+R0
+R14
+R15
+l0
+L79
+Vz>PX^Vfz=8YmjGEh>d^:e2
+!s100 YVfz@dIE]@^?BQU;IU1FT1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+Z35 DEx4 work 12 mux_4to1_top 0 22 z>PX^Vfz=8YmjGEh>d^:e2
+l85
+L84
+Z36 VR8m9l2;4khLhg2z>8?44o1
+Z37 !s100 f[H`Y:19N^h@@fTzjSEj83
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Emuxusingwhen
+R13
+R2
+R3
+R0
+R14
+R15
+l0
+L63
+V8NA>:jWdNQ2BMEao<L:N;3
+!s100 [>T3lGD04]DEM[n^LzbRP3
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+Z38 DEx4 work 12 muxusingwhen 0 22 8NA>:jWdNQ2BMEao<L:N;3
+l70
+L69
+Z39 VYIHcZe3di>6=_U>2LhCLP1
+Z40 !s100 ZC9N7>fU=;29=gaN?e^ke1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Enand_gate
+Z41 w1516348512
+R2
+R3
+R0
+Z42 8C:/Modeltech_pe_edu_10.4a/examples/NAND_GATE.vhd
+Z43 FC:/Modeltech_pe_edu_10.4a/examples/NAND_GATE.vhd
+l0
+L3
+VT4A39k>Y<]fan@>Bid]C>3
+!s100 =XRnBlEg5F>_2[E4nIC``1
+R6
+32
+Z44 !s110 1517164098
+!i10b 1
+Z45 !s108 1517164098.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/NAND_GATE.vhd|
+Z47 !s107 C:/Modeltech_pe_edu_10.4a/examples/NAND_GATE.vhd|
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 9 nand_gate 0 22 T4A39k>Y<]fan@>Bid]C>3
+l8
+L7
+VSf[]9J_bfn0E0YeL:9Q?[1
+!s100 <Q:0ZaM64baY^]KV5mCOY2
+R6
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R11
+R12
+Enor_gate
+Z48 w1516348581
+R2
+R3
+R0
+Z49 8C:/Modeltech_pe_edu_10.4a/examples/NOR_GATE.vhd
+Z50 FC:/Modeltech_pe_edu_10.4a/examples/NOR_GATE.vhd
+l0
+L3
+VVGQL?Dm1AheXJGInX^Ezf1
+!s100 VT_1W9kPPPo_c4^Y`[1D@3
+R6
+32
+R44
+!i10b 1
+R45
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/NOR_GATE.vhd|
+Z52 !s107 C:/Modeltech_pe_edu_10.4a/examples/NOR_GATE.vhd|
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 8 nor_gate 0 22 VGQL?Dm1AheXJGInX^Ezf1
+l8
+L7
+V4[dC3D=UO`>MBQB4:TGeG2
+!s100 ome``L8Ag6m21l0d2[MVV2
+R6
+32
+R44
+!i10b 1
+R45
+R51
+R52
+!i113 1
+R11
+R12
+Enot_gate
+R13
+R2
+R3
+R0
+R14
+R15
+l0
+L23
+VP[OKzVmzBSdP<AiJQ;[[e2
+!s100 Xf>T^@NQGC?U8=m=<YU?o0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+Z53 DEx4 work 8 not_gate 0 22 P[OKzVmzBSdP<AiJQ;[[e2
+l28
+L27
+Z54 V[Dfh[j7Od[;UTiFWo>Z_80
+Z55 !s100 kVUac@B0nS?Xo8b`hl8Ma2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Eor_gate
+R13
+R2
+R3
+R0
+R14
+R15
+l0
+L13
+VeAH@MUXBFWeM1nekjj2:L2
+!s100 S0GU7LB9^Am3`k1Cl6VUn0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+Z56 DEx4 work 7 or_gate 0 22 eAH@MUXBFWeM1nekjj2:L2
+l18
+L17
+Z57 VWkhm91<HXlm0OV`:WE0N?2
+Z58 !s100 ^91lMz44^WY^<`HKDD8OZ1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Etwo_to_one_multiplexer
+R13
+R2
+R3
+R0
+R14
+R15
+l0
+L33
+Vo_:l25^AMBNn3mNH`jNn32
+!s100 T^MBW:41QB_16fm>@9C040
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+Z59 DEx4 work 22 two_to_one_multiplexer 0 22 o_:l25^AMBNn3mNH`jNn32
+l51
+L37
+Z60 V7^T^hjCXZ6J6b]g;N<_d>2
+Z61 !s100 A<F0HFmRE6Oa:geld[MJh0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Exnor_gate
+Z62 w1516348658
+R2
+R3
+R0
+Z63 8C:/Modeltech_pe_edu_10.4a/examples/XNOR_GATE.vhd
+Z64 FC:/Modeltech_pe_edu_10.4a/examples/XNOR_GATE.vhd
+l0
+L3
+V57m7FX`YCZYEl]R1fmXOO2
+!s100 kkNSf1:BMFgdLR54c9kbl0
+R6
+32
+R7
+!i10b 1
+R8
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/XNOR_GATE.vhd|
+Z66 !s107 C:/Modeltech_pe_edu_10.4a/examples/XNOR_GATE.vhd|
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 9 xnor_gate 0 22 57m7FX`YCZYEl]R1fmXOO2
+l8
+L7
+V13J3f2SU5lNlf5gXl8ZNJ1
+!s100 gjEnicoG`^1Kh`>fR<=M03
+R6
+32
+R7
+!i10b 1
+R8
+R65
+R66
+!i113 1
+R11
+R12
+Exor_gate
+R23
+R2
+R3
+R0
+R24
+R25
+l0
+L3
+VmJ;061HKA[_S9CAN1k7Vk2
+!s100 bg:^[MO^_BL:[d8Ccf?QJ3
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Afunc
+R2
+R3
+DEx4 work 8 xor_gate 0 22 mJ;061HKA[_S9CAN1k7Vk2
+l8
+L7
+VMGzBa>3M6c`O_STO<>Uo32
+!s100 JM0oFfQW^=l^LV0b<jTBI1
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12

@@ -1,0 +1,105 @@
+C:/Modeltech_pe_edu_10.4a/examples/NOR_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/NOR_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOR_GATE
+-- Compiling architecture FUNC of NOR_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/OR_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/OR_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OR_GATE
+-- Compiling architecture FUNC of OR_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/NOT_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/NOT_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOT_GATE
+-- Compiling architecture FUNC of NOT_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/FOUR_BIT_ADDER_SUBTRACTOR.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/FOUR_BIT_ADDER_SUBTRACTOR.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XOR_GATE
+-- Compiling architecture FUNC of XOR_GATE
+-- Compiling entity FULL_ADDER
+-- Compiling architecture FUNC of FULL_ADDER
+-- Compiling entity FOUR_BIT_ADDER_SUBTRACTOR
+-- Compiling architecture FUNC of FOUR_BIT_ADDER_SUBTRACTOR
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/HALF_ADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/HALF_ADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND_GATE
+-- Compiling architecture FUNC of AND_GATE
+-- Compiling entity XOR_GATE
+-- Compiling architecture FUNC of XOR_GATE
+-- Compiling entity HALF_ADDER
+-- Compiling architecture FUNC of HALF_ADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/XNOR_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/XNOR_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XNOR_GATE
+-- Compiling architecture FUNC of XNOR_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/NAND_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/NAND_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NAND_GATE
+-- Compiling architecture FUNC of NAND_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/XOR_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/XOR_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XOR_GATE
+-- Compiling architecture FUNC of XOR_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/FULL_ADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/FULL_ADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND_GATE
+-- Compiling architecture FUNC of AND_GATE
+-- Compiling entity XOR_GATE
+-- Compiling architecture FUNC of XOR_GATE
+-- Compiling entity HALF_ADDER
+-- Compiling architecture FUNC of HALF_ADDER
+-- Compiling entity OR_GATE
+-- Compiling architecture FUNC of OR_GATE
+-- Compiling entity FULL_ADDER
+-- Compiling architecture FUNC of FULL_ADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/AND_GATE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/AND_GATE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND_GATE
+-- Compiling architecture FUNC of AND_GATE
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/ALL_GATES.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/ALL_GATES.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALL_GATES
+-- Compiling architecture FUNC of ALL_GATES
+
+} {} {}}
