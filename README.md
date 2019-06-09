@@ -1,6 +1,16 @@
 # Cryptographic-Coprocessor-Design
 
-This repository contains all the VHDL Codes along with the project on Cryptographic Coprocessor Design
+The project was completed as a part of Computer Architecture & Organisation course.
+
+This repository contains the following:
+
+1. VHDL Codes
+
+2. PDF on allotment of projects
+
+3. Screenshot of VHDL Code in ModelSim
+
+4. TXT File containing the source code of the project
 
 The team members were:
 
@@ -11,6 +21,8 @@ The team members were:
 3. Dhruva Agarwal
 
 4. Kenneth Prabakaran
+
+A viewer needs to download the latest version of ModelSim and simulate the VHDL files through it.
 
 Some of the useful links for VHDL:
 
