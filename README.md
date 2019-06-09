@@ -31,3 +31,7 @@ Some of the useful links for VHDL:
     https://www.scribd.com/doc/22844949/Experiment-1-Write-VHDL-Code-for-Realize-All-Logic-Gates
 
     http://www.fpga4student.com/2017/07/n-bit-adder-design-in-verilog.html
+
+A screenshot of ModelSim with VHDL Code:
+
+![Screenshot.png](Screenshot.png)
